@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shrineyjesta
 - 👀 I’m interested in .programing..
-- 🌱 I’m currently learning  c program...
+- 🌱 I’m currently learning  java program...
 - 💞️ I’m looking to collaborate on ..job.
 - 📫 How to reach me ..in github.
 
